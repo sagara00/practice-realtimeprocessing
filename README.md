@@ -12,7 +12,7 @@
 
 * 커피 주문 데이터를 수집해서 일정 시간 간 주문자의 연령, 주문 방법, 주문한 커피 종류 등의 통계를 산출하여 DB에 저장
 
-* 실시간으로 처리되는 통계를 차트 형태로 시각화
+* 실시간으로 처리되는 통계를 차트 형태로 시각화f
 
 ### 1-2. 결과물
 
@@ -724,7 +724,7 @@ node.js is not
 * Realtime Data apps
 * Fast File Upload Client
 * Ad Server
- 
+
 
 node programming model
 
